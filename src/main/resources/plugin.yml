@@ -1,0 +1,4 @@
+name: KerstHunt
+version: '${project.version}'
+main: com.foxdev.kersthunt.KerstHunt
+api-version: '1.19'
